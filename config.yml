@@ -4,7 +4,7 @@
 theme: default
 
 # HTML Language setting
-lang: "en"
+lang: "de"
 
 # Plugins, implemented in ./plugins/PLUGIN_NAME
 # Use {{ vars.PLUGIN_NAME }} in the settings below
@@ -25,7 +25,7 @@ plugins:
 google_analytics_id:
 
 # HTML Title
-title: "ZhgChgLi's Links"
+title: "Wasteland Warfare Linkyee"
 
 # Avatar image path
 avatar: "./images/profile.jpeg"
